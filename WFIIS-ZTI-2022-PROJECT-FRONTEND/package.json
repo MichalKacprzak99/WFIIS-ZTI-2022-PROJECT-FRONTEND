@@ -1,6 +1,6 @@
 {
 	"name": "WFIIS-ZTI-2022-PROJECT-FRONTEND",
-	"homepage": "https://MichalKacprzak99.github.io/restaurants-matcher-frontend",
+	"homepage": "https://MichalKacprzak99.github.io/WFIIS-ZTI-2022-PROJECT-FRONTEND",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
@@ -13,7 +13,6 @@
 		"@testing-library/user-event": "^12.8.3",
 		"axios": "^0.24.0",
 		"axios-case-converter": "^0.9.0",
-		"gh-pages": "^3.2.3",
 		"jwt-decode": "^3.1.2",
 		"process": "^0.11.10",
 		"react": "^17.0.2",
@@ -50,5 +49,7 @@
 			"last 1 safari version"
 		]
 	},
-	"devDependencies": {}
+	"devDependencies": {
+		"gh-pages": "^3.2.3"
+	}
 }
