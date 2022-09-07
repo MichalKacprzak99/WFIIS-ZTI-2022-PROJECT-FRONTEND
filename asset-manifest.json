@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/WFIIS-ZTI-2022-PROJECT-FRONTEND/static/css/main.5739ad41.chunk.css",
+    "main.js": "/WFIIS-ZTI-2022-PROJECT-FRONTEND/static/js/main.831439e5.chunk.js",
+    "main.js.map": "/WFIIS-ZTI-2022-PROJECT-FRONTEND/static/js/main.831439e5.chunk.js.map",
+    "runtime-main.js": "/WFIIS-ZTI-2022-PROJECT-FRONTEND/static/js/runtime-main.58dc72e0.js",
+    "runtime-main.js.map": "/WFIIS-ZTI-2022-PROJECT-FRONTEND/static/js/runtime-main.58dc72e0.js.map",
+    "static/js/2.d7ce2654.chunk.js": "/WFIIS-ZTI-2022-PROJECT-FRONTEND/static/js/2.d7ce2654.chunk.js",
+    "static/js/2.d7ce2654.chunk.js.map": "/WFIIS-ZTI-2022-PROJECT-FRONTEND/static/js/2.d7ce2654.chunk.js.map",
+    "static/js/3.9a5bd46a.chunk.js": "/WFIIS-ZTI-2022-PROJECT-FRONTEND/static/js/3.9a5bd46a.chunk.js",
+    "static/js/3.9a5bd46a.chunk.js.map": "/WFIIS-ZTI-2022-PROJECT-FRONTEND/static/js/3.9a5bd46a.chunk.js.map",
+    "index.html": "/WFIIS-ZTI-2022-PROJECT-FRONTEND/index.html",
+    "static/css/main.5739ad41.chunk.css.map": "/WFIIS-ZTI-2022-PROJECT-FRONTEND/static/css/main.5739ad41.chunk.css.map",
+    "static/js/2.d7ce2654.chunk.js.LICENSE.txt": "/WFIIS-ZTI-2022-PROJECT-FRONTEND/static/js/2.d7ce2654.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58dc72e0.js",
+    "static/js/2.d7ce2654.chunk.js",
+    "static/css/main.5739ad41.chunk.css",
+    "static/js/main.831439e5.chunk.js"
+  ]
+}
